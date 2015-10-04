@@ -1,4 +1,3 @@
-# LuceneDemo
 ###Lucene 入门Demo
 1.Lucene 索引创建
 2.Lucene 索引检索
